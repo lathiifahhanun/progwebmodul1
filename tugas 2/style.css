@@ -1,0 +1,27 @@
+table {
+    border-collapse:collapse;
+    border: 1px solid;
+    padding: 5px;
+    background-color: gold; 
+}
+
+td {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    border: 1px solid;
+    border-color: black;
+    padding: 5px;
+    text-align:justify;
+    background-color: gold;
+    table-layout:fixed;
+}
+
+th {
+    table-layout: fixed;
+    border: 1px solid;
+    border-color: black;
+    padding: 5px;
+    text-align:center;
+    color: black;
+    background-color: gold;
+}
